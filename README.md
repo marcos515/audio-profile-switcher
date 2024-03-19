@@ -34,7 +34,7 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 
 ## License
 
-[Specify the license for your code, if applicable]
+MIT License
 
 ## Contact
 
